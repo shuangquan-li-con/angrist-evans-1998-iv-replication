@@ -1,3 +1,6 @@
+(I haved processed the data, however, the data files are so huge that they cannot be uploaded in github. One of them is 348MB,and the other is 366MB. But I successfully switch them to csv. version)
+
+
 **Angrist & Evans (1998) – IV Replication Project Project Overview**
 
 This project replicates the core empirical strategy of Angrist & Evans (1998), a seminal paper in applied econometrics that uses an instrumental variables (IV) framework to estimate the causal effect of family size on parental labor supply.
